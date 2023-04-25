@@ -175,6 +175,9 @@ const Footer = (prop) => {
                 <Button target={true} href="https://jamm.matter.design/">
                   JAMM.™
                 </Button>
+                <Button target={true} href="#">
+                  Content and Imagery were generated using Generative AI.
+                </Button>
               </span>
             </div>
           </div>
